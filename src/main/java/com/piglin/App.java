@@ -85,7 +85,7 @@ public class App
         Date date2 = new Date();
         System.out.println(date1);
         System.out.println(date2);
-        System.out.println(date2-date1);
+        //System.out.println(date2-date1);
     }
 
 
